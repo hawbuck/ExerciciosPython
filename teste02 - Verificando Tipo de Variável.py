@@ -1,0 +1,6 @@
+n1 = int(input('Digite um número:'))
+n2 = float(input('Digite um número decimal:'))
+n3 = input('Digite uma palavra:')
+print(n1," é do tipo",type(n1))
+print(n2," é do tipo",type(n2))
+print(n3,"é do tipo",type(n3))
