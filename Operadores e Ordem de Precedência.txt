@@ -1,0 +1,16 @@
+#Teste de Operadores
+#Adição -> +
+#Subtração -> -
+#Multiplicação -> *
+#Divisão -> /
+#Exponenciação -> **
+#Divisão Inteira -> //
+#Resto da Divisão -> %
+#Recebe -> =
+#Igual -> ==
+#Operandos são os números que se aplicam em operações
+#Ordem de precedência:
+	#1º - ()
+	#2º - **
+	#3º - * ; / ; // ; %
+	#4º - + ; -
