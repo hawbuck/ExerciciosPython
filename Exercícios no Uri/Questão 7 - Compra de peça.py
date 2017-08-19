@@ -4,9 +4,10 @@
 #Após, calcule e mostre o valor a ser pago.
 
 #Entrada
-cod1, num1, valor1 = float(input().split(' '))
-cod2, num2, valor2 = float(input().split(' '))
-
+cod1, num1, valor1 = input().split(' ')
+cod2, num2, valor2 = input().split(' ')
+cod1 = int(cod1)
+num1 = int()
 #processamento
 total1 = num1 * valor1
 total1 = "%.2f" % (total1)
